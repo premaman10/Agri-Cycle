@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agricycle</string>
+    <string name="default_notification_channel_id">default_channel</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings">सेटिंग्स</string>
+    <string name="back">वापस</string>
+    <string name="app_theme">ऐप थीम</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="receive_alerts">अलर्ट और अपडेट प्राप्त करें</string>
+    <string name="location_services">स्थान सेवाएं</string>
+    <string name="enable_location">फील्ड लोकेशन ट्रैकिंग सक्षम करें</string>
+    <string name="data_sync">डेटा सिंक्रनाइज़ेशन</string>
+    <string name="sync_data">क्लाउड स्टोरेज के साथ डेटा सिंक करें</string>
+    <string name="account">खाता</string>
+    <string name="manage_account">अपने खाते की सेटिंग्स प्रबंधित करें</string>
+    <string name="navigate">नेविगेट</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="about">के बारे में</string>
+    <string name="version">संस्करण 1.0.0</string>
+    <string name="language">भाषा</string>
+    <string name="language_setting">भाषा सेटिंग</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिंदी</string>
+</resources>
